@@ -25,3 +25,12 @@
 body {
     font-family: 'Poppins';
 }
+
+.turma {
+    background-image: linear-gradient(#081767,#607538);
+    color:white;
+}
+
+.turma-imagem{
+    width: 25%;
+}
